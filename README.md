@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello,everybody!&height=100&section=header"/>
 </p>
 
-I'm a FrontEnd Developer from Ukarine!
+I'm a FrontEnd Developer from Ukraine!
 
 **About me**
 
