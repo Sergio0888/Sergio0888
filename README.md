@@ -31,9 +31,9 @@ I'm a FrontEnd Developer from Ukraine!
 </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
-</p>
+</p>  -->
 
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
