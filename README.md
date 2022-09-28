@@ -2,6 +2,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello,everybody!&height=100&section=header"/>
 </p>
 
+I'm a FrontEnd Developer from Ukarine!
+
+**About me**
+
+- 💼 Looking for a job "FrontEnd Developer"
+
+- 📈 Created and filled with functionality more than 40 websites!
+
+- ❤️ I love writing JavaScript, and building fun experiments on React.js.
+
 <h1 align="center">
   Let's Connect and have a Chat!💬
 </h1>
