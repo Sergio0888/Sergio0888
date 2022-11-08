@@ -8,7 +8,7 @@ I'm a FrontEnd Developer from Ukraine!
 
 - 💼 Looking for a job "FrontEnd Developer"
 
-- 📈 Created and filled with functionality more than 40 websites!
+- 📈 Created and filled with functionality more than 20 websites!
 
 - ❤️ I love writing JavaScript, and building fun experiments on React.js.
 
